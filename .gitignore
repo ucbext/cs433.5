@@ -1,0 +1,9 @@
+# bazel
+bazel-*
+
+# python
+*.pyc
+
+# miscellaneous
+*.tags
+.DS_Store
