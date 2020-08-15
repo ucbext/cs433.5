@@ -3,14 +3,10 @@ CompSci 433.5
 This repository houses the code and scaffolding that UC Berkeley Extension students taking CS 433.5
 use when completing their assignments.
 
-Starter Code
-------------
-This repository contains various pieces of starter code that provide a skeleton and will help you
-get started on your assignments. When working with this starter code, please remember that you may
-not change or delete:
-
-- Any of the code or tests already present
-- Any of the interfaces, APIs, or methods already present
+Student Setup
+-------------
+In order to set up your environment, follow the setup instructions in the [Student
+Setup](https://github.com/ucbext/cs433.5/blob/master/student-setup.md) guide.
 
 Supported Languages
 -------------------
@@ -20,18 +16,28 @@ languages. Other languages may be offered in the future.
 
 - TODO: fill this in
 
-Student Setup
--------------
-In order to set up your environment, follow the setup instructions in the [Student
-Setup](https://github.com/fsareshwala/cs433.5/blob/master/student-setup.md) guide.
+Starter Code
+------------
+This repository contains various pieces of starter code that provide a skeleton and will help you
+get started on your assignments. When working with this starter code, please remember that you may
+not change or delete:
 
-Pulling In New Changes
-----------------------
-From time to time, I make changes in the upstream repository. You should pull these down into your
-fork of the upstream repository. To do so, run `tools/update.sh` from the top level repository root.
-This script will issue a series of `git` commands and merge the upstream changes with your local
-changes. Remember to push the newly added changes to your GitHub fork as well. If you prefer, you
-may use a GUI `git` client to simply fetch from the remote repository and merge automatically.
+- Any of the code or tests already present
+- Any of the interfaces, APIs, or methods already present
+
+Private Repositories
+--------------------
+In order to discourage any form of academic dishonesty, now or in the future, the repositories you
+work in should use the private setting. A private repository has the same capabilities as a public
+repository, except that only you and your instructor will be able to access it. This is important
+while the course is progressing so that other students cannot find your work and use it as their
+own. However, it continues to be important even after the course is over. As you complete
+assignments, solutions will be committed to your repositories. Even after you have completed this
+course, please don't make your repository or the solutions to the assignments public. Future
+students may be solving similar assignments and they shouldn't be able to find solutions online.
+
+For the most part, GitHub's platform will take care of repository access and privacy. However, I
+write this here so that you can be cognizant of it as well, now and going forward.
 
 Submitting Your Work
 --------------------
@@ -46,5 +52,5 @@ assignment.
 Contributing
 ------------
 If you find any issues within this repository while completing your assignments, please [open an
-issue](https://github.com/fsareshwala/cs433.5/issues/new) in the issue tracker. Better yet, please
+issue](https://github.com/ucbext/cs433.5/issues/new) in the issue tracker. Better yet, please
 open a pull request against the repository and I will be happy to merge it in.
