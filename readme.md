@@ -41,7 +41,9 @@ write this here so that you can be cognizant of it as well, now and going forwar
 
 Submitting Your Work
 --------------------
-Submit your work by committing your changes and pushing them upstream before the due date.
+Submit your work by committing your changes and pushing them upstream before the due date. You may
+push as many commits and make as many submissions as you like before the due date. The date of the
+last commit on any of the files for a given program will be considered as your submission date.
 
 Grading
 -------
